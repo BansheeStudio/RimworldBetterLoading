@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
     <name>BetterLoading</name>
-    <author>Samboy063</author>
+    <author>BansheeStudio</author>
     <packageId>me.samboycoding.betterloading.dev</packageId>
-    <url>https://github.com/SamboyCoding/RimworldBetterLoading</url>
+    <url>https://github.com/BansheeStudio/RimworldBetterLoading</url>
     <supportedVersions>
         <li>1.0</li>
         <li>1.1</li>
