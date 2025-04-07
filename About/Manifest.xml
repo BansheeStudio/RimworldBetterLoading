@@ -6,6 +6,6 @@
         <li>Core &gt;= 1.0</li>
         <li>Startupimpact</li>
     </loadBefore>
-    <manifestUri>https://raw.githubusercontent.com/SamboyCoding/RimworldBetterLoading/RW1.4/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/SamboyCoding/RimworldBetterLoading/releases/latest</downloadUri>
+    <manifestUri>https://raw.githubusercontent.com/BansheeStudio/RimworldBetterLoading/RW1.4/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/BansheeStudio/RimworldBetterLoading/releases/latest</downloadUri>
 </Manifest>
