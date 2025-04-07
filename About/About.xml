@@ -2,7 +2,7 @@
 <ModMetaData>
     <name>BetterLoading</name>
     <author>BansheeStudio</author>
-    <packageId>me.samboycoding.betterloading.dev</packageId>
+    <packageId>bansheestudio.betterloading.dev</packageId>
     <url>https://github.com/BansheeStudio/RimworldBetterLoading</url>
     <supportedVersions>
         <li>1.0</li>
